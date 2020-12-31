@@ -1,0 +1,25 @@
+1.0.3
+
+- Speed improvements
+- Add vsync and autofire options
+- Add several new hotkeys :
+  . settings such as fps, render mode, auto fire speed
+    can now be directly modified inside the emulator
+    (no need to enter in the settings menu)
+  . quick save / quick load current state
+    (no need to enter in the main menu)
+- Default Hotkeys can now be set in the keyboard mapping menu
+  (useful to add hotkeys on existing/previous keyboard files)
+- Bug fix in the low battery watchdog
+
+
+1.0.2
+
+- Add save state feature !
+- Display and save thumbnail images for each save state
+- Disable speech system (make the emulator to freeze)
+- Bug fix in the render function (dark screen)
+
+1.0.1
+
+- Intial release
